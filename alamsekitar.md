@@ -4,7 +4,7 @@
 🕚 **11:00 pagi – 1:00 tengah hari**  
 🎙️ **Penceramah**: Prof. Madya Dr. Mohd Murtadha Mohamad  
 👨‍🏫 **Fasilitator**: Prof. Madya Dr. Mohd Shahizan Othman  
-📂 **[slaid](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/IoT_AI_Pantau_Alam_Sekitar.pdf)
+📂 **[slaid](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/IoT_AI_Pantau_Alam_Sekitar_1.pdf)
 ---
 
 ## 🎯 Objektif Slot
