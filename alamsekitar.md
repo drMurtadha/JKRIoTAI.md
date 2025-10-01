@@ -103,7 +103,7 @@
 
 ### 2️⃣ YOLOv9 Object Detection with Transformers.js
 
-## [demo1](https://huggingface.co/spaces/Xenova/yolov9-web?utm_source=chatgpt.com)
+## [demo2](https://huggingface.co/spaces/Xenova/yolov9-web?utm_source=chatgpt.com)
 
 > Upload imej atau gunakan contoh untuk uji YOLOv9 Object Detection  
 
