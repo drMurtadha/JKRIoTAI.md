@@ -23,7 +23,7 @@
 | 7.30 – 9.00 pagi  | Sarapan pagi                                                        | -                                                | -                                                |
 | 9.00 – 10.30 pagi | 🟨 Slot 2: Generative AI: Mudahkan Tugas Harian Kejuruteraan & Makmal | Prof. Madya Dr. Mohd Shahizan Othman             | **Prof. Madya Dr. Mohd Murtadha Mohamad**       |
 | 10.30 – 11.00 pg  | Minum pagi                                                          | -                                                | -                                                |
-| 11.00 – 1.00 tgh  | 🟦 **Slot 3: Aplikasi IoT dalam Pemantauan Alam Sekitar & Sumber** | **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
+| 11.00 – 1.00 tgh  | 🟦 **Slot 3: Aplikasi IoT dalam Pemantauan Alam Sekitar & Sumber** [📂 Modul](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/alamsekitar.md)| **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
 | 1.00 – 2.30 ptg   | Rehat / Makan Tengahari / Solat                                     | -                                                | -                                                |
 | 2.30 – 4.30 ptg   | 🟦 **Slot 4: IoT untuk Komuniti & Infrastruktur Pintar**           | **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
 | 4.30 – 6.30 ptg   | Minum petang & Rehat                                                | -                                                | -                                                |
