@@ -11,7 +11,7 @@
 |-------------------|-------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | 3.00 – 5.00 ptg   | Pendaftaran peserta                                         | -                                                | -                                                |
 | 6.30 – 8.30 mlm   | Makan malam & Solat                                         | -                                                | -                                                |
-| 8.30 – 10.30 mlm  | 🟦 **Slot 1: Penyelidikan IoT untuk Pemeliharaan Warisan** | **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
+| 8.30 – 10.30 mlm  | 🟦 **Slot 1: Penyelidikan IoT untuk Pemeliharaan Warisan** [📂 Modul](https://github.com/drMurtadha/JKRIoTAI/blob/main/warisan.md)| **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
 | 10.30 – 11.00 mlm | Minum malam & bersurai                                      | -                                                | -                                                |
 
 ---
