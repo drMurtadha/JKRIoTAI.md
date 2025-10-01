@@ -25,7 +25,7 @@
 | 10.30 – 11.00 pg  | Minum pagi                                                          | -                                                | -                                                |
 | 11.00 – 1.00 tgh  | 🟦 **Slot 3: Aplikasi IoT dalam Pemantauan Alam Sekitar & Sumber** [📂 Modul](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/alamsekitar.md)| **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
 | 1.00 – 2.30 ptg   | Rehat / Makan Tengahari / Solat                                     | -                                                | -                                                |
-| 2.30 – 4.30 ptg   | 🟦 **Slot 4: IoT untuk Komuniti & Infrastruktur Pintar**           | **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
+| 2.30 – 4.30 ptg   | 🟦 **Slot 4: IoT untuk Komuniti & Infrastruktur Pintar** [📂 Modul](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/kominfrapintar.md)        | **Prof. Madya Dr. Mohd Murtadha Mohamad**        | Prof. Madya Dr. Mohd Shahizan Othman            |
 | 4.30 – 6.30 ptg   | Minum petang & Rehat                                                | -                                                | -                                                |
 | 6.30 – 8.30 mlm   | Makan malam & Solat                                                 | -                                                | -                                                |
 | 8.30 – 10.30 mlm  | 🟨 Slot 5: AI untuk Produktiviti & Analisis Data Mudah             | Prof. Madya Dr. Mohd Shahizan Othman             | **Prof. Madya Dr. Mohd Murtadha Mohamad**       |
