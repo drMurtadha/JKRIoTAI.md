@@ -1,4 +1,3 @@
-# Berikut ialah jadual penuh program 1–3 Oktober 2025 dalam format Markdown, dengan penekanan pada sesi yang anda sampaikan sebagai penceramah (🟦) dan fasilitator (🟨), sesuai untuk dimasukkan ke GitHub:
 
 # 📅 Atur Cara Program Inovasi Teknologi AI & IoT Dalam Kejuruteraan
 **Tarikh:** 1 – 3 Oktober 2025  
@@ -45,8 +44,3 @@
 
 ---
 
-### 🔵 Legend:
-- 🟦 = Slot di mana **anda adalah penceramah**
-- 🟨 = Slot di mana **anda adalah fasilitator**
-
-Jika anda mahu saya sediakan dalam format .md untuk dimuat turun atau tambah ikon GitHub / link repo, sila beritahu.
