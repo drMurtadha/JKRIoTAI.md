@@ -1,7 +1,7 @@
 
 # 📅 Atur Cara Program Inovasi Teknologi AI & IoT Dalam Kejuruteraan
 **Tarikh:** 1 – 3 Oktober 2025  
-**Tempat:** [Sila nyatakan lokasi jika perlu]
+**Tempat:** Avillion Hotel, Port Dickson
 
 ---
 
