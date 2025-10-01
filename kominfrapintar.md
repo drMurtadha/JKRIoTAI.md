@@ -87,6 +87,8 @@ Bina laman yang paparkan:
 
 ### Langkah Ringkas:
 
+## klik [link](https://github.com/drMurtadha/iot-kampung-template)
+
 1. **Fork repo templat**  
    👉 [https://github.com/murtadhadev/iot-kampung-template](#) *(contoh demo)*
 
