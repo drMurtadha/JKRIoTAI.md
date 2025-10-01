@@ -3,7 +3,7 @@
 **Disampaikan oleh:** Prof. Madya Dr. Mohd Murtadha Mohamad  
 **Tarikh:** 1 Oktober 2025  
 **Slot 1 | Masa:** 8:30 – 10:30 malam
-[📂 Slaid](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/IoT_Pemeliharaan_Warisan.pdf)
+**[📂 Slaid](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/IoT_Pemeliharaan_Warisan.pdf)
 ---
 
 ## 🧩 Kandungan Slot
