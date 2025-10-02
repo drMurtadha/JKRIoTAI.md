@@ -38,7 +38,7 @@
 | Masa              | Aktiviti                                                           | Penceramah                                      | Fasilitator                                     |
 |-------------------|--------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
 | 7.30 – 9.00 pagi  | Sarapan pagi                                                       | -                                                | -                                                |
-| 9.00 – 11.00 pagi | 🟨 Slot 6: AI untuk Kejuruteraan & Pengurusan Projek di JKR       | Prof. Madya Dr. Mohd Shahizan Othman             | **Prof. Madya Dr. Mohd Murtadha Mohamad**       |
+| 9.00 – 11.00 pagi | 🟨 Slot 6: AI untuk Kejuruteraan & Pengurusan Projek di JKR [📂 Modul](https://github.com/drMurtadha/JKRIoTAI.md/blob/main/gabung.md)      | Prof. Madya Dr. Mohd Shahizan Othman             | **Prof. Madya Dr. Mohd Murtadha Mohamad**       |
 | 11.00 – 11.30 pg  | Minum pagi                                                         | -                                                | -                                                |
 | 11.30 – 12.30 tgh | Check-out dari penginapan                                          | -                                                | -                                                |
 
