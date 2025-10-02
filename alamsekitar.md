@@ -93,20 +93,54 @@
 
 ## 🖥️ Demo Live Object Detection (Embedded)
 
-### 1️⃣ YOLO Object Detection (Tensorflow.js)
 
-## [demo1](https://shaqian.github.io/tfjs-yolo-demo/?utm_source=chatgpt.com)
+## 🎯 1. [TensorFlow.js YOLO Demo (by Shaqian)](https://shaqian.github.io/tfjs-yolo-demo/?utm_source=chatgpt.com)
 
-> Gunakan kamera laptop / PC secara terus dengan model Tiny YOLO v1, v2, v3 & YOLOv3  
+- ✅ Guna kamera laptop / telefon secara terus
+- Model: Tiny YOLOv1, v2, v3 & YOLOv3
+- Framework: `TensorFlow.js` (berjalan sepenuhnya dalam browser)
+- Kelebihan: Saiz model kecil (~43MB), pantas dimuatkan
+
+🔗 Demo: [https://shaqian.github.io/tfjs-yolo-demo](https://shaqian.github.io/tfjs-yolo-demo/?utm_source=chatgpt.com)
 
 ---
 
-### 2️⃣ YOLOv9 Object Detection with Transformers.js
+## 🤖 2. [YOLOv9 Demo (Hugging Face – Xenova)](https://huggingface.co/spaces/Xenova/yolov9-web)
 
-## [demo2](https://huggingface.co/spaces/Xenova/yolov9-web?utm_source=chatgpt.com)
+- ✅ Boleh upload imej atau guna kamera (bergantung kepada device)
+- Model: YOLOv9 via `Transformers.js`
+- Sesuai untuk demo dan eksperimen pantas
+- Boleh latihan model sendiri jika ada data
 
-> Upload imej atau gunakan contoh untuk uji YOLOv9 Object Detection  
+🔗 Demo: [https://huggingface.co/spaces/Xenova/yolov9-web](https://huggingface.co/spaces/Xenova/yolov9-web)
 
+---
+
+## 🧠 3. [Roboflow Hosted Inference (YOLOv8)](https://roboflow.com/inference)
+
+- ✅ Boleh cuba terus dengan kamera (atau upload imej)
+- Menyokong model: YOLOv8, SSD, EfficientDet dan lain-lain
+- Disediakan oleh Roboflow — mesra pengguna & boleh ubahsuai model
+
+🔗 Demo: [https://roboflow.com/inference](https://roboflow.com/inference)
+
+---
+
+## 📷 4. [ImageAI Live Webcam Object Detection (Colab)](https://colab.research.google.com/github/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/Camera/Object_Detection_Video.ipynb)
+
+- ✅ Jalan dalam Google Colab
+- Guna kamera laptop melalui notebook
+- Berdasarkan framework `ImageAI`
+
+🔗 Notebook: [Google Colab ImageAI Demo](https://colab.research.google.com/github/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/Camera/Object_Detection_Video.ipynb)
+
+---
+
+## 📚 Nota
+
+> ⚠️ Untuk demo kamera:
+> - Pastikan beri kebenaran "Allow camera" pada browser.
+> - Untuk telefon, gunakan browser seperti Chrome atau Safari versi terkini.
 ---
 
 ## 🎤 Penutup
