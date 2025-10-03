@@ -21,13 +21,7 @@ Menghasilkan dokumen penuh **Perancangan Strategik Kecemerlangan Teknikal CREaTE
 | Masa | Stage | Tools | Aktiviti Praktikal |
 |------|-------|-------|---------------------|
 | **09:00 – 09:10** | **Pengenalan & Setup** | – | Penerangan objektif latihan & workflow AI tools. |
-| **09:10 – 09:25** | **IDEA** | 🔹 [scite.ai](https://scite.ai/)<br> 🔹 [Semantic Scholar](https://www.semanticscholar.org/)<br> 🔹 [Markmap](https://markmap.js.org/repl/) | 1. Gunakan **scite.ai** untuk mencari literatur dan membina *citation graph*.  
-   - Contoh query: `"strategic planning" AND "centre of excellence"`  
-   - 👉 Rujuk [scite_queries.md](scite_queries.md) untuk senarai penuh query siap copy-paste.  
-2. Guna **Semantic Scholar** untuk:  
-   - Cari artikel tambahan dengan query sama.  
-   - Explore hubungan artikel menggunakan **Connected Papers**.  |
-3. Susun hasil carian dalam bentuk **Mindmap Strategik CREaTE** (visi, misi, teras strategik) dengan **Markmap**.  |
+| **09:10 – 09:25** | **IDEA** | 🔹 [scite.ai](https://scite.ai/)<br>🔹 [Markmap](https://markmap.js.org/repl/) | 1. Carian literatur & citation graph.<br>2. Bina *Mindmap Strategik* CREaTE (visi, misi, teras strategik). |
 | **09:25 – 09:40** | **PENYUSUNAN** | 🔹 [Whimsical](https://whimsical.com/)<br>🔹 [NotebookLM](https://notebooklm.google.com/) (awal) | 1. Tukar mindmap kepada *flowchart konsep*. <br>2. Import dokumen CREaTE ke NotebookLM → dapatkan ringkasan awal. |
 | **09:40 – 09:55** | **VISUALISASI** | 🔹 [ChatGPT](https://chat.openai.com/) (Carta Gantt) | 1. Jana *Carta Gantt 2026–2030* (projek, milestone, KPI).<br>2. Paparkan dalam bentuk timeline visual. |
 | **09:55 – 10:15** | **PERANCANGAN** | 🔹 [ChatGPT](https://chat.openai.com/)<br>🔹 [AI Minutes Generator](https://minutesgenerator.com/) | 1. Tulis draf *Kertas Cadangan Strategik*.<br>2. Simulasi mesyuarat → hasilkan minit rasmi. |
@@ -36,6 +30,20 @@ Menghasilkan dokumen penuh **Perancangan Strategik Kecemerlangan Teknikal CREaTE
 | **10:35 – 10:50** | **INTEGRASI** | 🔹 [NotebookLM](https://notebooklm.google.com/) (akhir) | Gabungkan semua dokumen (mindmap, carta, Gantt, cadangan, laporan, ramalan) → hasilkan: <br>📑 *Report Strategik Penuh*<br>🎤 *Draf Slaid Pembentangan*. |
 | **10:50 – 11:00** | **PEMBENTANGAN** | 🔹 [Kimi](https://kimi.moonshot.cn/)<br>🔹 [ChatGPT](https://chat.openai.com/) (E-mel) | 1. Bentuk *slaid akhir*.<br>2. Draf *e-mel rasmi edaran* kepada stakeholder. |
 
+---
+
+## 📌 Hasil Akhir
+- **Peta Minda Strategi CREaTE 2026–2030**  
+- **Carta Alir & Gantt Chart Strategik**  
+- **Kertas Cadangan & Minit Mesyuarat**  
+- **Ramalan Senario 2026–2030**  
+- **Laporan Suku Tahunan & Memo Rasmi**  
+- **Report Strategik Lengkap (NotebookLM)**  
+- **Slaid Pembentangan Akhir (Kimi)**  
+
+---
+
+## 📂 Struktur Repo Cadangan
 ---
 
 ## 🔍 Carian Cepat di **scite.ai**
