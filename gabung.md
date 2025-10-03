@@ -26,7 +26,7 @@ Menghasilkan dokumen penuh **Perancangan Strategik Kecemerlangan Teknikal CREaTE
    - 👉 Rujuk [scite_queries.md](scite_queries.md) untuk senarai penuh query siap copy-paste.  
 2. Guna **Semantic Scholar** untuk:  
    - Cari artikel tambahan dengan query sama.  
-   - Explore hubungan artikel menggunakan **Connected Papers**.  
+   - Explore hubungan artikel menggunakan **Connected Papers**.  |
 3. Susun hasil carian dalam bentuk **Mindmap Strategik CREaTE** (visi, misi, teras strategik) dengan **Markmap**.  |
 | **09:25 – 09:40** | **PENYUSUNAN** | 🔹 [Whimsical](https://whimsical.com/)<br>🔹 [NotebookLM](https://notebooklm.google.com/) (awal) | 1. Tukar mindmap kepada *flowchart konsep*. <br>2. Import dokumen CREaTE ke NotebookLM → dapatkan ringkasan awal. |
 | **09:40 – 09:55** | **VISUALISASI** | 🔹 [ChatGPT](https://chat.openai.com/) (Carta Gantt) | 1. Jana *Carta Gantt 2026–2030* (projek, milestone, KPI).<br>2. Paparkan dalam bentuk timeline visual. |
